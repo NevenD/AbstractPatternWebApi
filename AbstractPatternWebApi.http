@@ -1,0 +1,6 @@
+@AbstractPatternWebApi_HostAddress = http://localhost:5170
+
+GET {{AbstractPatternWebApi_HostAddress}}/render/mac
+Accept: application/json
+
+###
